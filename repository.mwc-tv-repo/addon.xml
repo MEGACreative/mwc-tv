@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.mwc-tv-repo" name="MWCTV Repo" version="1.1" provider-name="MEGACreative">
 	<extension point="xbmc.addon.repository" name="MWCTV Repository">
-		<info compressed="false">http://raw.github.com/MEGACreative/mwc-tv/addons.xml</info>
-		<checksum>http://raw.github.com/MEGACreative/mwc-tv/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/MEGACreative/mwc-tv/repo</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/MEGACreative/mwc-tv/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/MEGACreative/mwc-tv/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/MEGACreative/mwc-tv/repo</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>MWCTV Repository</summary>
